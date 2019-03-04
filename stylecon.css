@@ -1,0 +1,19 @@
+nav{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+
+  text-decoration:none;
+  font-family: 'Fjalla One', sans-serif;
+  margin-left:50px;
+
+}
+
+#PageCon{
+  text-indent:20px;
+  font-family:'Fjalla One', sans-serif;
+}

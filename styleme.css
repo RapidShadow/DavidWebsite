@@ -1,0 +1,50 @@
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size:20px;
+  text-indent:50px;
+  overflow:auto;
+
+}
+h1{
+
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+nav{
+  text-align: center;
+}
+a{
+  color:#35cece;
+  text-decoration:none;
+  font-family: 'Fjalla One', sans-serif;
+  margin-left:50px;
+}
+.ConLine{
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  padding: 0;
+  background-color:#35cece;
+  margin-top:35px;
+  margin-right:150px;
+  margin-left:150px;
+
+}
+.headings{
+    font-size:40px;
+    font-family: 'Montserrat', sans-serif;
+}
+#PageCon{
+  text-indent:20px;
+  font-family:'Fjalla One', sans-serif;
+}
+#SpellBreak{
+    margin-right:20px;
+    margin-left:20px;
+    float:left;
+    overflow:auto;
+
+}
