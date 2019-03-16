@@ -6,4 +6,8 @@ function enterSpell(){
 function leaveSpell(){
   this.src="images/SpellBreak1.jpg"
 }
+$("#menu").click(funFunction);
+function funFunction(){
+  $(".con").slideToggle()
+}
 });

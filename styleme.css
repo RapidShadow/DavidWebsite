@@ -1,50 +1,80 @@
+ul {
+  margin-left: 10px;
+  list-style-type: none;
+  vertical-align: middle;
+  display: block;
+}
 
-p{
+p {
   font-family: 'Montserrat', sans-serif;
-  font-size:20px;
-  text-indent:50px;
+  font-size: 25px;
   overflow:auto;
-
-}
-h1{
-
-  font-family: 'Montserrat', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
+h1 {
+  font-size:
+    font-family: 'Montserrat', sans-serif;
+}
 
-nav{
+nav {
   text-align: center;
 }
-a{
-  color:#35cece;
-  text-decoration:none;
+
+a {
+  padding: 5px 8px 2px 8px;
+  color: #35cece;
+  text-decoration: none;
   font-family: 'Fjalla One', sans-serif;
-  margin-left:50px;
+  margin-left: 50px;
 }
-.ConLine{
+
+a:hover {
+  background-color: lightgrey;
+}
+
+.ConLine {
   display: block;
   height: 1px;
   border: 0;
   border-top: 1px solid #ccc;
   padding: 0;
-  background-color:#35cece;
-  margin-top:35px;
-  margin-right:150px;
-  margin-left:150px;
+  background-color: #35cece;
+  margin-top: 35px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
 
+.headings {
+  margin-left: 20px;
+  font-size: 45px;
+  font-family: 'Montserrat', sans-serif;
 }
-.headings{
-    font-size:40px;
-    font-family: 'Montserrat', sans-serif;
-}
-#PageCon{
-  text-indent:20px;
-  font-family:'Fjalla One', sans-serif;
-}
-#SpellBreak{
-    margin-right:20px;
-    margin-left:20px;
-    float:left;
-    overflow:auto;
 
+.con {
+  margin-left: 16px;
+  display: none;
+  font-size: 20px;
+  margin-bottom: 10px
+}
+
+#menu {
+  margin-top: 30px;
+}
+
+.PageCon {
+  text-indent: 10px;
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+  vertical-align: middle;
+  margin-bottom:27px;
+}
+
+
+img {
+  margin-right:20px;
+  float: left;
+  overflow: auto;
 }
